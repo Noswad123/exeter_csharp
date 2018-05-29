@@ -1,0 +1,11 @@
+C:\Users\Jamal\workspace\exeter\classes\bin\MCD\Debug\netcoreapp2.0\classes.deps.json
+C:\Users\Jamal\workspace\exeter\classes\bin\MCD\Debug\netcoreapp2.0\classes.runtimeconfig.json
+C:\Users\Jamal\workspace\exeter\classes\bin\MCD\Debug\netcoreapp2.0\classes.runtimeconfig.dev.json
+C:\Users\Jamal\workspace\exeter\classes\bin\MCD\Debug\netcoreapp2.0\classes.dll
+C:\Users\Jamal\workspace\exeter\classes\bin\MCD\Debug\netcoreapp2.0\classes.pdb
+C:\Users\Jamal\workspace\exeter\classes\obj\MCD\Debug\netcoreapp2.0\classes.csprojAssemblyReference.cache
+C:\Users\Jamal\workspace\exeter\classes\obj\MCD\Debug\netcoreapp2.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\workspace\exeter\classes\obj\MCD\Debug\netcoreapp2.0\classes.AssemblyInfoInputs.cache
+C:\Users\Jamal\workspace\exeter\classes\obj\MCD\Debug\netcoreapp2.0\classes.AssemblyInfo.cs
+C:\Users\Jamal\workspace\exeter\classes\obj\MCD\Debug\netcoreapp2.0\classes.dll
+C:\Users\Jamal\workspace\exeter\classes\obj\MCD\Debug\netcoreapp2.0\classes.pdb

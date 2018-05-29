@@ -1,0 +1,11 @@
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\methods\bin\MCD\Debug\netcoreapp2.0\methods.deps.json
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\methods\bin\MCD\Debug\netcoreapp2.0\methods.runtimeconfig.json
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\methods\bin\MCD\Debug\netcoreapp2.0\methods.runtimeconfig.dev.json
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\methods\bin\MCD\Debug\netcoreapp2.0\methods.dll
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\methods\bin\MCD\Debug\netcoreapp2.0\methods.pdb
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\methods\obj\MCD\Debug\netcoreapp2.0\methods.csprojAssemblyReference.cache
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\methods\obj\MCD\Debug\netcoreapp2.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\methods\obj\MCD\Debug\netcoreapp2.0\methods.AssemblyInfoInputs.cache
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\methods\obj\MCD\Debug\netcoreapp2.0\methods.AssemblyInfo.cs
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\methods\obj\MCD\Debug\netcoreapp2.0\methods.dll
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\methods\obj\MCD\Debug\netcoreapp2.0\methods.pdb

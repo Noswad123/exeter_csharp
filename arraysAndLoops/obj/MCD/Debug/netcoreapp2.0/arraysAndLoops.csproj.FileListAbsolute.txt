@@ -1,0 +1,11 @@
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\bin\MCD\Debug\netcoreapp2.0\arraysAndLoops.deps.json
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\bin\MCD\Debug\netcoreapp2.0\arraysAndLoops.runtimeconfig.json
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\bin\MCD\Debug\netcoreapp2.0\arraysAndLoops.runtimeconfig.dev.json
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\bin\MCD\Debug\netcoreapp2.0\arraysAndLoops.dll
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\bin\MCD\Debug\netcoreapp2.0\arraysAndLoops.pdb
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\obj\MCD\Debug\netcoreapp2.0\arraysAndLoops.csprojAssemblyReference.cache
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\obj\MCD\Debug\netcoreapp2.0\arraysAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\obj\MCD\Debug\netcoreapp2.0\arraysAndLoops.AssemblyInfoInputs.cache
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\obj\MCD\Debug\netcoreapp2.0\arraysAndLoops.AssemblyInfo.cs
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\obj\MCD\Debug\netcoreapp2.0\arraysAndLoops.dll
+C:\Users\Jamal\workspace\exeter\arraysAndLoops\obj\MCD\Debug\netcoreapp2.0\arraysAndLoops.pdb
