@@ -1,0 +1,11 @@
+C:\Users\Jamal\workspace\exeter\PartyRsvp\bin\MCD\Debug\netcoreapp2.0\PartyRsvp.deps.json
+C:\Users\Jamal\workspace\exeter\PartyRsvp\bin\MCD\Debug\netcoreapp2.0\PartyRsvp.runtimeconfig.json
+C:\Users\Jamal\workspace\exeter\PartyRsvp\bin\MCD\Debug\netcoreapp2.0\PartyRsvp.runtimeconfig.dev.json
+C:\Users\Jamal\workspace\exeter\PartyRsvp\bin\MCD\Debug\netcoreapp2.0\PartyRsvp.dll
+C:\Users\Jamal\workspace\exeter\PartyRsvp\bin\MCD\Debug\netcoreapp2.0\PartyRsvp.pdb
+C:\Users\Jamal\workspace\exeter\PartyRsvp\obj\MCD\Debug\netcoreapp2.0\PartyRsvp.csprojAssemblyReference.cache
+C:\Users\Jamal\workspace\exeter\PartyRsvp\obj\MCD\Debug\netcoreapp2.0\PartyRsvp.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\workspace\exeter\PartyRsvp\obj\MCD\Debug\netcoreapp2.0\PartyRsvp.AssemblyInfoInputs.cache
+C:\Users\Jamal\workspace\exeter\PartyRsvp\obj\MCD\Debug\netcoreapp2.0\PartyRsvp.AssemblyInfo.cs
+C:\Users\Jamal\workspace\exeter\PartyRsvp\obj\MCD\Debug\netcoreapp2.0\PartyRsvp.dll
+C:\Users\Jamal\workspace\exeter\PartyRsvp\obj\MCD\Debug\netcoreapp2.0\PartyRsvp.pdb

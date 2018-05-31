@@ -1,0 +1,11 @@
+C:\Users\Jamal\workspace\exeter\cweb\bin\MCD\Debug\netcoreapp2.0\cweb.deps.json
+C:\Users\Jamal\workspace\exeter\cweb\bin\MCD\Debug\netcoreapp2.0\cweb.runtimeconfig.json
+C:\Users\Jamal\workspace\exeter\cweb\bin\MCD\Debug\netcoreapp2.0\cweb.runtimeconfig.dev.json
+C:\Users\Jamal\workspace\exeter\cweb\bin\MCD\Debug\netcoreapp2.0\cweb.dll
+C:\Users\Jamal\workspace\exeter\cweb\bin\MCD\Debug\netcoreapp2.0\cweb.pdb
+C:\Users\Jamal\workspace\exeter\cweb\obj\MCD\Debug\netcoreapp2.0\cweb.csprojAssemblyReference.cache
+C:\Users\Jamal\workspace\exeter\cweb\obj\MCD\Debug\netcoreapp2.0\cweb.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\workspace\exeter\cweb\obj\MCD\Debug\netcoreapp2.0\cweb.AssemblyInfoInputs.cache
+C:\Users\Jamal\workspace\exeter\cweb\obj\MCD\Debug\netcoreapp2.0\cweb.AssemblyInfo.cs
+C:\Users\Jamal\workspace\exeter\cweb\obj\MCD\Debug\netcoreapp2.0\cweb.dll
+C:\Users\Jamal\workspace\exeter\cweb\obj\MCD\Debug\netcoreapp2.0\cweb.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jamal\workspace\exeter\httpPlay\bin\MCD\Debug\netcoreapp2.0\httpPlay.deps.json
+C:\Users\Jamal\workspace\exeter\httpPlay\bin\MCD\Debug\netcoreapp2.0\httpPlay.runtimeconfig.json
+C:\Users\Jamal\workspace\exeter\httpPlay\bin\MCD\Debug\netcoreapp2.0\httpPlay.runtimeconfig.dev.json
+C:\Users\Jamal\workspace\exeter\httpPlay\bin\MCD\Debug\netcoreapp2.0\httpPlay.dll
+C:\Users\Jamal\workspace\exeter\httpPlay\bin\MCD\Debug\netcoreapp2.0\httpPlay.pdb
+C:\Users\Jamal\workspace\exeter\httpPlay\obj\MCD\Debug\netcoreapp2.0\httpPlay.csprojAssemblyReference.cache
+C:\Users\Jamal\workspace\exeter\httpPlay\obj\MCD\Debug\netcoreapp2.0\httpPlay.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\workspace\exeter\httpPlay\obj\MCD\Debug\netcoreapp2.0\httpPlay.AssemblyInfoInputs.cache
+C:\Users\Jamal\workspace\exeter\httpPlay\obj\MCD\Debug\netcoreapp2.0\httpPlay.AssemblyInfo.cs
+C:\Users\Jamal\workspace\exeter\httpPlay\obj\MCD\Debug\netcoreapp2.0\httpPlay.dll
+C:\Users\Jamal\workspace\exeter\httpPlay\obj\MCD\Debug\netcoreapp2.0\httpPlay.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jamal\workspace\exeter\interfaces\bin\MCD\Debug\netcoreapp2.0\interfaces.deps.json
+C:\Users\Jamal\workspace\exeter\interfaces\bin\MCD\Debug\netcoreapp2.0\interfaces.runtimeconfig.json
+C:\Users\Jamal\workspace\exeter\interfaces\bin\MCD\Debug\netcoreapp2.0\interfaces.runtimeconfig.dev.json
+C:\Users\Jamal\workspace\exeter\interfaces\bin\MCD\Debug\netcoreapp2.0\interfaces.dll
+C:\Users\Jamal\workspace\exeter\interfaces\bin\MCD\Debug\netcoreapp2.0\interfaces.pdb
+C:\Users\Jamal\workspace\exeter\interfaces\obj\MCD\Debug\netcoreapp2.0\interfaces.csprojAssemblyReference.cache
+C:\Users\Jamal\workspace\exeter\interfaces\obj\MCD\Debug\netcoreapp2.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\workspace\exeter\interfaces\obj\MCD\Debug\netcoreapp2.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\Jamal\workspace\exeter\interfaces\obj\MCD\Debug\netcoreapp2.0\interfaces.AssemblyInfo.cs
+C:\Users\Jamal\workspace\exeter\interfaces\obj\MCD\Debug\netcoreapp2.0\interfaces.dll
+C:\Users\Jamal\workspace\exeter\interfaces\obj\MCD\Debug\netcoreapp2.0\interfaces.pdb
